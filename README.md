@@ -12,12 +12,12 @@ I’m a developer in training who loves learning, building small projects, and i
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Currently Learning (Fundamentals)
 
-* **Python** — backend, scripting, automation
-* **Java** — OOP and software design
-* **Data Structures & Algorithms (DSA)** — efficiency and problem solving
-* **Frontend** — coming soon (focus will be on HTML/CSS/JS)
+* **Python** — mastering core syntax, logic, functions, loops, and file handling to build a strong foundation for backend and automation.
+* **Java** — focusing on programming fundamentals, OOP principles, variables, data types, and algorithms to understand solid software design.
+* **Data Structures & Algorithms (DSA)** — understanding how data is stored, accessed, and optimized for performance.
+* **Programming Fundamentals** — improving logical thinking and clean coding style across all languages.
 
 ---
 
@@ -51,8 +51,7 @@ I’m interested in **ethical hacking** and **cybersecurity** — learning how t
 Feel free to reach out if you want to collaborate or share resources.
 
 * GitHub: `youssef-m-desoky`
-* Email: `your.email@example.com` *(optional)*
+
 
 ---
 
-*Replace `youssef-m-desoky` with your actual GitHub username and update contact info if you want.*
