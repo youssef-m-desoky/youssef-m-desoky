@@ -50,15 +50,9 @@ I’m interested in **ethical hacking** and **cybersecurity** — learning how t
 
 Feel free to reach out if you want to collaborate or share resources.
 
-* GitHub: `YOUR_GITHUB_USERNAME`
+* GitHub: `youssef-m-desoky`
 * Email: `your.email@example.com` *(optional)*
 
 ---
 
-> **One-line bio (for profile):**
-
-> `Learning Python + Java + DSA — Future Frontend Developer | Interested in Ethical Hacking`
-
----
-
-*Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username and update contact info if you want.*
+*Replace `youssef-m-desoky` with your actual GitHub username and update contact info if you want.*
