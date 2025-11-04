@@ -1,81 +1,64 @@
-## Hi there 👋
+# 👋 Hey, I'm Youssef
 
-
-```markdown
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Youssef</span>!</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Developer+%7C+Learner+%7C+Explorer;Python+%2B+Java+%2B+DSA+Learner;Future+Frontend+Developer;Cybersecurity+%26+Ethical+Hacking+Fan" />
-</p>
+I’m a developer in training who loves learning, building small projects, and improving every day. Currently focusing on fundamentals so I can become a strong, reliable engineer.
 
 ---
 
-### 🚀 What I'm Working On
-- 🐍 Learning **Python**, **Java**, **Data Structures**, and **Algorithms**
-- 🌐 Preparing to dive into **Frontend Development** soon
-- 💡 Building small projects to strengthen problem-solving skills
+## 🚀 What I'm Working On
+
+* Learning **Python**, **Java**, **Data Structures**, and **Algorithms**
+* Planning to start **Frontend Development** (HTML, CSS, JavaScript) soon
+* Building small projects to practice problem solving and clean code
 
 ---
 
-### 🧠 Currently Learning
-| Language | Focus |
-|-----------|--------|
-| Python | Backend & Automation |
-| Java | OOP & Problem Solving |
-| DSA | Logic & Efficiency |
-| Frontend | *(coming soon)* |
+## 🧠 Currently Learning
+
+* **Python** — backend, scripting, automation
+* **Java** — OOP and software design
+* **Data Structures & Algorithms (DSA)** — efficiency and problem solving
+* **Frontend** — coming soon (focus will be on HTML/CSS/JS)
 
 ---
 
-### 🛡️ Security & Hacking Interest
-💀 I’m passionate about **Ethical Hacking** & **Cybersecurity** — learning how to protect systems by understanding vulnerabilities ⚔️.  
-> *“Hack the system — ethically.”* 🔐
+## 🛡️ Security & Hacking Interest
 
-🧩 Topics I Explore:
-- Penetration Testing Basics
-- Secure Coding Practices
-- Network Security
-- Linux & CLI Tools
+I’m interested in **ethical hacking** and **cybersecurity** — learning how to protect systems by understanding vulnerabilities and applying defensive best practices. I follow legal and ethical guidelines (penetration testing, secure coding, responsible disclosure).
 
 ---
 
-### ⚙️ Tech Interests
-🧰 Software Development  
-🌍 Web Development  
-🧠 Cybersecurity & Ethical Hacking  
-🪶 Clean Code & Best Practices  
-🤝 Open Source Collaboration
+## ⚙️ Tech Interests
+
+* Software development
+* Web development
+* Cybersecurity & ethical hacking
+* Clean, maintainable code
+* Open-source collaboration
 
 ---
 
-### 🎯 My Goals
-🎓 Build a strong foundation in **programming** and **algorithms**  
-💻 Become a **Full-Stack Developer**  
-🛡️ Deepen my **cybersecurity** skills  
-🌟 Contribute to **open-source** and community projects
+## 🎯 Goals
+
+* Build a strong foundation in programming and algorithms
+* Become a full-stack developer with solid backend knowledge
+* Improve skills in cybersecurity and help build safer software
+* Contribute to open-source projects and community learning
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="49%"/>
-</p>
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="98%" />
-</p>
+Feel free to reach out if you want to collaborate or share resources.
+
+* GitHub: `YOUR_GITHUB_USERNAME`
+* Email: `your.email@example.com` *(optional)*
 
 ---
 
-### 🌐 Connect With Me
-💬 Always open to **learning**, **collaborating**, and **sharing ideas**.  
-📫 Let’s connect and build something awesome together!
+> **One-line bio (for profile):**
+
+> `Learning Python + Java + DSA — Future Frontend Developer | Interested in Ethical Hacking`
 
 ---
 
-<p align="center">
-  ⭐ <i>“Keep learning, keep coding, and keep improving.”</i> ⭐
-</p>
-```
-
+*Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username and update contact info if you want.*
